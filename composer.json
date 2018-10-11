@@ -1,18 +1,18 @@
 {
-	"name": "xklid101/h40-php-api-slim-bootstrapware",
-	"description": "H40 api bootstrap, middleware and other wares for slim framework",
-	"type": "library",
-	"license": ["MIT"],
-	"authors": [
+    "name": "xklid101/h40-php-api-slim-bootstrapware",
+    "description": "H40 api bootstrap, middleware and other wares for slim framework",
+    "type": "library",
+    "license": ["MIT"],
+    "authors": [
         {
             "name": "xklid101"
         }
     ],
-	"require": {
-		"php": ">= 7.2",
+    "require": {
+        "php": ">= 7.2",
         "slim/slim": "^3.11"
-	},
-	"minimum-stability": "stable",
+    },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Xklid101\\H40\\PhpApiSlimBoostrapware\\": "src/"
