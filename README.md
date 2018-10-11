@@ -33,13 +33,13 @@ SAMPLE base index file that includes all files from ./index.php.d directory
 ### /src/www/index.php.d/index.sample.php
 **************************
 
-**GET /sample**  
+***GET /sample**  
 Sample action for slim framework  
   
 ```javascript  
 Response:  
 {  
-"message": "hello world", //string  
+    "message": "hello world", //string  
 }  
 ```
   
